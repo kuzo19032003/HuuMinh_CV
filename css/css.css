@@ -1,0 +1,106 @@
+body{
+    margin-top: 0px;
+    padding: 0;
+    background-color: rgb(229,236,244);
+}
+#body_cv_nd{
+    display: flex;
+    flex-direction: row;
+    margin: 50px 200px;
+}
+#img{
+    width: 100px;
+    background-color: rgb(64,75,111);
+    color: white;
+    flex:1
+}
+#text{
+    margin-left: 2px;
+    width: 100px;
+    height: auto;
+    background-color: rgb(217,217,217);
+    flex: 2;
+}
+#oTrang{
+    width: 352px;
+    height: 3px;
+    background-color: white;
+    margin-top: 15px;
+}
+#img_avatar img{
+    margin: 30px 85px;
+    border-radius: 250px;
+    width: 200px;
+    height: 250px;
+}
+#contact{
+    margin-left: 20px;
+    padding: 0;
+}
+#contact img{
+    display: inline-block;
+    margin-right: 30px;
+    filter: invert(100%);
+
+}
+#contact p{
+    margin-top: 5px;
+    display: inline-block;
+}
+#contact a{
+    text-decoration: none;
+    color: aliceblue;
+}
+#education{
+    margin-left: 20px;
+    padding: 0;
+}
+#Skill{
+    margin-left: 20px;
+    padding: 0;  
+}
+#Skill p{
+    margin-left: 20px;
+}
+/* TEXT */
+#text_aboutMe{
+    color:  rgb(64,75,111);
+    margin-left: 10px;
+}
+#text_aboutMe p{
+    margin-left: 40px;
+}
+#oXanh{
+    width: 706px;
+    height: 3px;
+    background-color: rgb(64,75,111);
+    margin-top: 15px;
+}
+#oTrangDung{
+    position: absolute;
+    left: 555px;
+    width: 7px;
+    height: 1110px;
+    background-color: white;
+}
+#text h1,
+#text h2,
+#text h3{
+    margin-left: 20px;
+    color:  rgb(64,75,111);
+}
+#link{
+    display: inline-block;
+}
+#Project_done_qlnt a{
+    margin-left: 10px;
+    text-decoration: none;
+    color:  rgb(64,75,111);
+}
+#oXanh_nho{
+    width: 506px;
+    height: 2px;
+    background-color: rgb(64,75,111);
+    margin-top: 15px;
+    margin-left: 20px;
+}
